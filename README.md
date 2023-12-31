@@ -23,6 +23,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-- ![App Screenshot 1](app_screenshots/Screen%20Shot%201.png)
+![App Screenshot 1](app_screenshots/Screen%20Shot%201.png)
 
-- ![App Screenshot 2](app_screenshots/Screen%20Shot%202.png)
+![App Screenshot 2](app_screenshots/Screen%20Shot%202.png)
